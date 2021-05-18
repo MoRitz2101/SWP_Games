@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fzUAsxa3b2NE2/QupVjefyhXRvz+DLQdeae0RilmT3mf/nTHrtS5DL91Ggk2veBPDS7oXeZV2eyRfEPconHaBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\morit\\source\\repos\\SWP_Games\\SWP_Games\\SWP_Games.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\morit\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
