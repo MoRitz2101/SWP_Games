@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\morit\\source\\repos\\SWP_Games\\SWP_Games\\SWP_Games.csproj": {}
+    "C:\\Users\\MoritzLaßnig(5BHEL)\\Desktop\\4. Semester\\SWP_Games\\SWP_Games\\SWP_Games.csproj": {}
   },
   "projects": {
-    "C:\\Users\\morit\\source\\repos\\SWP_Games\\SWP_Games\\SWP_Games.csproj": {
+    "C:\\Users\\MoritzLaßnig(5BHEL)\\Desktop\\4. Semester\\SWP_Games\\SWP_Games\\SWP_Games.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\morit\\source\\repos\\SWP_Games\\SWP_Games\\SWP_Games.csproj",
+        "projectUniqueName": "C:\\Users\\MoritzLaßnig(5BHEL)\\Desktop\\4. Semester\\SWP_Games\\SWP_Games\\SWP_Games.csproj",
         "projectName": "SWP_Games",
-        "projectPath": "C:\\Users\\morit\\source\\repos\\SWP_Games\\SWP_Games\\SWP_Games.csproj",
-        "packagesPath": "C:\\Users\\morit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\morit\\source\\repos\\SWP_Games\\SWP_Games\\obj\\",
+        "projectPath": "C:\\Users\\MoritzLaßnig(5BHEL)\\Desktop\\4. Semester\\SWP_Games\\SWP_Games\\SWP_Games.csproj",
+        "packagesPath": "C:\\Users\\MoritzLaßnig(5BHEL)\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MoritzLaßnig(5BHEL)\\Desktop\\4. Semester\\SWP_Games\\SWP_Games\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\morit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MoritzLaßnig(5BHEL)\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

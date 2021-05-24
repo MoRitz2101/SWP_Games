@@ -40,7 +40,7 @@ namespace SWP_Games
                     switch (command)
                     {
                         case "buy":
-                            game = Game.Buy(id);
+                            game = Game.Create(id);
                             game.Edit(title, desc);
                             game.Print();
                             break;
@@ -68,7 +68,7 @@ namespace SWP_Games
 
                         case "delete":
                             game = Game.FindById(id);
-                            game.Delete();
+                            game.Remove();
                             break;
 
                         case "print":
